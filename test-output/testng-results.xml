@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CRM application testing" duration-ms="69769" started-at="2018-11-23T13:04:34Z" finished-at="2018-11-23T13:05:44Z">
+    <groups>
+    </groups>
+    <test name="CRM test cases" duration-ms="69769" started-at="2018-11-23T13:04:34Z" finished-at="2018-11-23T13:05:44Z">
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@224edc67]" name="setup" is-config="true" duration-ms="17975" started-at="2018-11-23T18:34:34Z" finished-at="2018-11-23T18:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@224edc67]" name="loginPageTitleTest" duration-ms="53" started-at="2018-11-23T18:34:52Z" finished-at="2018-11-23T18:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@224edc67]" name="closebrowser" is-config="true" duration-ms="2771" started-at="2018-11-23T18:34:52Z" finished-at="2018-11-23T18:34:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@224edc67]" name="setup" is-config="true" duration-ms="14744" started-at="2018-11-23T18:34:55Z" finished-at="2018-11-23T18:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="crmlogotest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@224edc67]" name="crmlogotest" duration-ms="113" started-at="2018-11-23T18:35:09Z" finished-at="2018-11-23T18:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmlogotest -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@224edc67]" name="closebrowser" is-config="true" duration-ms="1847" started-at="2018-11-23T18:35:09Z" finished-at="2018-11-23T18:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@224edc67]" name="setup" is-config="true" duration-ms="16832" started-at="2018-11-23T18:35:11Z" finished-at="2018-11-23T18:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@224edc67]" name="LoginTest" duration-ms="13648" started-at="2018-11-23T18:35:28Z" finished-at="2018-11-23T18:35:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@224edc67]" name="closebrowser" is-config="true" duration-ms="1756" started-at="2018-11-23T18:35:42Z" finished-at="2018-11-23T18:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- CRM test cases -->
+  </suite> <!-- CRM application testing -->
+</testng-results>
